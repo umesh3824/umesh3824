@@ -1,6 +1,6 @@
 ## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Umesh Chaudhari
 
-<a href="https://www.linkedin.com/in/umesh-1/">
+<a href="https://www.linkedin.com/in/umesh3824/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:umeshchaudhari3824@gmail.com">
